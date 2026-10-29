@@ -10,11 +10,11 @@
 ### Hook (first 2–3 lines)
 [One bold, specific sentence that says who you are and the value you bring — not just your job title.]
 
-Example: "I'm Talal Ahmed — I build AI agents that turn repetitive business workflows into autonomous systems."
+Example: "I'm Talal Ahmed, an Agentic AI Developer — I build AI agents that turn repetitive business workflows into autonomous systems."
 
 ### Credibility (3–5 lines)
 - Name: Talal Ahmed
-- Role: [Your current title] at [Company / Freelance]
+- Designation: Agentic AI Developer at [Company / Freelance]
 - Experience: [X years] in [field]
 - Focus: [Core domain, e.g., LLM apps, automation, RAG pipelines]
 
